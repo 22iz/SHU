@@ -1,0 +1,17 @@
+<MKM version="2.0" imageFileUrl="file:///D:/xampp/htdocs/test/%e6%96%87%e4%bb%b6/%e6%a0%91%e6%b4%9e_PSD%e6%96%87%e4%bb%b6/shudong1_MarkMan.png">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="20736" offsetX="25" offsetY="10" x="766" y="619"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15532016" offsetX="25" offsetY="10" x="546" y="1324"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13230829" offsetX="36" offsetY="15" x="1161" y="290"/>
+    <LengthMark direction="12" color="16711680" length="62" x="820" y="347"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15334381" offsetX="25" offsetY="10" x="536" y="1136"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="9935768" offsetX="25" offsetY="10" x="1237" y="1312"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10396575" offsetX="25" offsetY="10" x="1232" y="1292"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15790320" offsetX="25" offsetY="10" x="1186" y="1383"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10526880" offsetX="25" offsetY="10" x="936" y="196"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14013909" offsetX="25" offsetY="10" x="866" y="1161"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="541" y="1580"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13685714" offsetX="25" offsetY="10" x="592" y="1030"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="11843253" offsetX="25" offsetY="10" x="1083" y="937"/>
+  </Marks>
+</MKM>
